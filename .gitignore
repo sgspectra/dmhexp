@@ -1,0 +1,2 @@
+# Remove DB Config from git
+/config/db.config.js
